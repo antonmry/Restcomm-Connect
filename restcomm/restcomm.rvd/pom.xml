@@ -158,6 +158,13 @@
 			<version>${jersey.version}</version>
 			<scope>test</scope>
 		</dependency>
+		<!--
+		<dependency>
+			<groupId>org.keycloak</groupId>
+			<artifactId>keycloak-as7-adapter</artifactId>
+			<version>${keycloak-adapter.version}</version>
+		</dependency>
+		-->
 		<!-- /Testing libraries -->
 	</dependencies>
 
